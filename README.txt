@@ -49,6 +49,7 @@ caused by this.
 Copyright notice:
 
 Copyright (C) 2005-2012 Sergey A. Tachenov
+Copyright (C) 2020 Carlos Enrique Duarte Ortiz (carlosduarte.1@hotmail.com)
 
 This program is free software; you can redistribute it and/or modify it
 under the terms of the GNU Lesser General Public License as published by
